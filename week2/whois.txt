@@ -1,1 +1,4 @@
-
+NameWebnames.ca Inc.
+Whois Serverwhois.ca.fury.ca
+Referral URLwww.webnames.ca
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
