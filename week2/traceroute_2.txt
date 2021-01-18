@@ -1,3 +1,5 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# traceroute reddit.com
+
 traceroute to reddit.com (151.101.1.140), 30 hops max, 60 byte packets
  1  * * *
  2  10.78.4.4 (10.78.4.4)  1.313 ms 10.78.6.95 (10.78.6.95)  1.053 ms 10.78.6.91 (10.78.6.91)  1.233 ms
