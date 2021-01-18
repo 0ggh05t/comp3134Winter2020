@@ -1,0 +1,13 @@
+traceroute to GBlearn.com (209.172.60.196), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.78.6.95 (10.78.6.95)  1.305 ms 10.78.4.0 (10.78.4.0)  0.955 ms 10.78.4.6 (10.78.4.6)  0.933 ms
+ 3  138.197.249.78 (138.197.249.78)  0.952 ms  0.932 ms 138.197.249.86 (138.197.249.86)  1.136 ms
+ 4  ix-ae-4-0.tcore1.tnk-toronto.as6453.net (63.243.172.33)  1.070 ms ix-ae-12-0.tcore1.tnk-toronto.as6453.net (64.86.33.53)  1.156 ms  1.122 ms
+ 5  if-ae-2-2.tcore2.tnk-toronto.as6453.net (64.86.33.90)  20.178 ms  20.064 ms  20.090 ms
+ 6  if-ae-8-2.tcore1.ct8-chicago.as6453.net (66.110.48.2)  20.110 ms  20.139 ms  20.109 ms
+ 7  if-ae-22-2.tcore2.ct8-chicago.as6453.net (64.86.79.1)  20.468 ms  20.512 ms  20.387 ms
+ 8  if-ae-30-2.tcore1.w6c-montreal.as6453.net (66.198.96.25)  20.327 ms  20.295 ms  20.256 ms
+ 9  66.198.96.58 (66.198.96.58)  20.152 ms  20.068 ms  19.972 ms
+10  ae1.cr5.mtl.iweb.com (184.107.1.209)  20.995 ms  20.931 ms  20.402 ms
+11  te-14.cr4.mtl.iweb.com (184.107.1.169)  20.219 ms  20.088 ms  20.101 ms
+12  george-dreams.com (209.172.60.196)  20.483 ms  20.445 ms  20.484 ms
