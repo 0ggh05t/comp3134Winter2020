@@ -1,0 +1,7 @@
+Domains from whois.txt:
+    Domain Name		      IP Address
+1   www.google.com     216.58.217.36
+2   www.github.com     140.82.113.3
+3   www.georgebrown.ca 99.79.139.11
+4   AtKlass.com        209.172.60.196
+5   reddit.com         151.101.41.140 
