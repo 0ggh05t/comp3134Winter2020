@@ -1,3 +1,5 @@
+My Droplet IP: 143.110.220.44
+
 $ ping 143.110.220.44
 
 Pinging 143.110.220.44 with 32 bytes of data:
