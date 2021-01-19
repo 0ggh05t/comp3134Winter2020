@@ -1,6 +1,8 @@
 My Droplet IP: 143.110.220.44
 
-First ping:
+First ping: 
+
+IP Address: 216.58.217.36
 
 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping georgebrown.ca
 PING georgebrown.ca (99.79.139.11) 56(84) bytes of data.
@@ -30,6 +32,8 @@ PING georgebrown.ca (99.79.139.11) 56(84) bytes of data.
 rtt min/avg/max/mdev = 8.285/8.382/9.102/0.173 ms
 
 Second Ping:
+
+IP Address: 216.58.217.36
 
 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping google.com
 PING google.com (172.217.164.206) 56(84) bytes of data.
@@ -61,6 +65,8 @@ rtt min/avg/max/mdev = 0.803/0.901/1.517/0.168 ms
 
 Third Ping:
 
+IP Address: 151.101.41.140 
+
 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping reddit.com
 PING reddit.com (151.101.1.140) 56(84) bytes of data.
 64 bytes from 151.101.1.140 (151.101.1.140): icmp_seq=1 ttl=61 time=0.938 ms
@@ -81,6 +87,8 @@ rtt min/avg/max/mdev = 0.330/0.433/0.938/0.169 ms
 
 Fourth Ping:
 
+IP Address: 140.82.113.3
+
 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping github.com
 PING github.com (140.82.112.3) 56(84) bytes of data.
 64 bytes from lb-140-82-112-3-iad.github.com (140.82.112.3): icmp_seq=1 ttl=54 time=18.1 ms
@@ -100,6 +108,8 @@ PING github.com (140.82.112.3) 56(84) bytes of data.
 64 bytes from lb-140-82-112-3-iad.github.com (140.82.112.3): icmp_seq=14 ttl=54 time=17.0 ms
 
 Fifth Ping:
+
+IP Address: 173.239.8.164
 
 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping digitalocean.com
 PING digitalocean.com (104.16.182.15) 56(84) bytes of data.
