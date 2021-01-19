@@ -1,3 +1,5 @@
+My Droplet IP: 143.110.220.44
+
 First ping:
 
 root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping georgebrown.ca
