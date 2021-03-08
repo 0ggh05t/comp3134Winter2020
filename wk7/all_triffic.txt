@@ -1,5 +1,0 @@
-root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ssh droplet_0ggh05t@143.110.220.44
-The authenticity of host '143.110.220.44 (143.110.220.44)' can't be established.
-ECDSA key fingerprint is SHA256:PMGO5mxqOFzYeY9L6JxG11vxrZc8NrNTxjJFUX4FNeE.
-Are you sure you want to continue connecting (yes/no/[fingerprint])?
-Host key verification failed.
