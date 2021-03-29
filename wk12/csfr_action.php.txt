@@ -1,0 +1,12 @@
+<script>document.location.href="/directory_traversal_part1.php"<script>
+
+<div class="signInInputLabel" id="userNameLabel" aria-hidden="true">User name:</div>
+<div><input id="username" name="username" class="signInInputText" role="textbox" aria-labelledby="userNameLabel"/></div>
+ <div class="signInInputLabel" id="passwordLabel" aria-hidden="true">Password:</div>
+  <div><input id="password" onfocus="g_fFcs=0" name="password" value="" type="password" class="signInInputText" aria-labelledby="passwordLabel"/></div>
+        <div><input id="passwordText" onfocus="g_fFcs=0" name="passwordText" value="" style="display: none;" class="signInInputText" aria-labelledby="passwordLabel"/></div>
+        <div class="showPasswordCheck signInCheckBoxText">
+           <input type="checkbox" id="showPasswordCheck" class="chk" onclick="showPasswordClick()" />
+          <span>Show password</span>
+        </div>
+		
