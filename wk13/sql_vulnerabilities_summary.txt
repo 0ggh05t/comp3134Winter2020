@@ -1,1 +1,5 @@
-It runs well as It just shows my First name
+It runs well as It just shows my First name for "getusers_1.php."
+
+The second time I run it with a dash, it shows my first name with a dash for "getusers_1.php"
+
+Lastly, the last time i run it with a puncuation mark or with "1=1", it shows my name with the puncuation mark and 1=1 for "getusers_1.php"
