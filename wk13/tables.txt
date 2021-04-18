@@ -1,0 +1,10 @@
+These tables were added:
+
+id-PK
+username
+email
+firstname
+lastname
+active
+
+However, I am unable to capture it as when I typed this command it did appear in Git Bash
