@@ -1,0 +1,6 @@
+I added this to my mysql GitBash
+
+firstname = Kevin
+active = 1
+
+But it won't appear after I typed it through Git Bash
