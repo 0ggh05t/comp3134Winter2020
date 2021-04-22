@@ -1,0 +1,1 @@
+cookies in browser hard to find but when checking the console on the browser. nothing is found and a lot of errors

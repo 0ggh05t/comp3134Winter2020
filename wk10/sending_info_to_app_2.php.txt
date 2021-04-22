@@ -1,0 +1,1 @@
+I copied through the code from  "sending_info_to_app_1.php" but i got a error after that
