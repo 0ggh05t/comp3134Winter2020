@@ -1,1 +1,0 @@
-The difference between script tags and html entities is that the script tags shows where the form is forming up and the html entities just display everyting
