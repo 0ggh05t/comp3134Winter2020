@@ -1,0 +1,1 @@
+it shows the number of arrays from the nano screen itself
