@@ -1,1 +1,0 @@
-I see arrays from the nano list from my git bash

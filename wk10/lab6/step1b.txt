@@ -1,1 +1,0 @@
-It is showing a array but only on a straight line
